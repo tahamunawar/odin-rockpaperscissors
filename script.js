@@ -67,7 +67,7 @@ function playRound(humanChoice, computerChoice){
             console.log("Draw");
         }
     }
-    console.log(`End of Round. Human chose 
+    console.log(`End of Round. Human chose ${humanChoice} Computer chose ${computerChoice}
         Human Score: ${humanScore}
         Computer Score: ${computerScore}`)
 }
