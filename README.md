@@ -1,3 +1,3 @@
 # odin-rockpaperscissors
 
-This is a rock paper scissors game played ENTIRELY in the console. As such, the web page is completely blank.
+This is the second version of the rock paper scissors game, in which buttons have been added for better interaction. Scores are also displayed on the screen, along with a final alert message which tells who won the game. All changes were made via the DOM using JS, therefore minimal attention paid to design and styling. Even the html elements, such as buttons and headings, were added via the DOM.
