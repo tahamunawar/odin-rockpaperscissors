@@ -161,10 +161,12 @@ body.addEventListener('click', (e) => {
             playRound(humanChoice);
             break;
         case "butt2":
-            playRound("Paper");
+            humanChoice = "Paper";
+            playRound(humanChoice);
             break;
         case "butt3":
-            playRound("Scissor");
+            humanChoice = "Scissor";
+            playRound(humanChoice);
             break;
     }
 });
